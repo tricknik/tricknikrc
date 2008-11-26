@@ -1,5 +1,9 @@
 " general settings
 set number
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
 map <F1> <Esc>:bprev<CR>
 map <F12> <Esc>:bnext<CR>
 map <F10> <Esc>:buffers<CR>
